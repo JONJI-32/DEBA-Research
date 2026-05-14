@@ -1,0 +1,98 @@
+{
+  "logret|F3_noylag_dz|OLS": {},
+  "logret|F3_noylag_dz|Ridge": {
+    "alpha": 10.0
+  },
+  "logret|F3_noylag_dz|RF": {
+    "max_depth": 12,
+    "min_samples_leaf": 5,
+    "n_estimators": 400
+  },
+  "logret|F3_noylag_dz|XGB": {
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "n_estimators": 300
+  },
+  "logret|F3_noylag_dz|LGB": {
+    "num_leaves": 31,
+    "learning_rate": 0.05,
+    "n_estimators": 800
+  },
+  "logret|F3_noylag_dz|CatBoost": {
+    "depth": 8,
+    "learning_rate": 0.05,
+    "iterations": 400
+  },
+  "logret|F4_noylag_nodz|OLS": {},
+  "logret|F4_noylag_nodz|Ridge": {
+    "alpha": 10.0
+  },
+  "logret|F4_noylag_nodz|RF": {
+    "max_depth": 12,
+    "min_samples_leaf": 5,
+    "n_estimators": 400
+  },
+  "logret|F4_noylag_nodz|XGB": {
+    "max_depth": 6,
+    "learning_rate": 0.05,
+    "n_estimators": 400
+  },
+  "logret|F4_noylag_nodz|LGB": {
+    "num_leaves": 31,
+    "learning_rate": 0.05,
+    "n_estimators": 400
+  },
+  "logret|F4_noylag_nodz|CatBoost": {
+    "depth": 8,
+    "learning_rate": 0.05,
+    "iterations": 400
+  },
+  "logret_rank|F3_noylag_dz|OLS": {},
+  "logret_rank|F3_noylag_dz|Ridge": {
+    "alpha": 10.0
+  },
+  "logret_rank|F3_noylag_dz|RF": {
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "n_estimators": 400
+  },
+  "logret_rank|F3_noylag_dz|XGB": {
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "n_estimators": 300
+  },
+  "logret_rank|F3_noylag_dz|LGB": {
+    "num_leaves": 31,
+    "learning_rate": 0.05,
+    "n_estimators": 400
+  },
+  "logret_rank|F3_noylag_dz|CatBoost": {
+    "depth": 8,
+    "learning_rate": 0.05,
+    "iterations": 400
+  },
+  "logret_rank|F4_noylag_nodz|OLS": {},
+  "logret_rank|F4_noylag_nodz|Ridge": {
+    "alpha": 0.1
+  },
+  "logret_rank|F4_noylag_nodz|RF": {
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "n_estimators": 400
+  },
+  "logret_rank|F4_noylag_nodz|XGB": {
+    "max_depth": 4,
+    "learning_rate": 0.05,
+    "n_estimators": 300
+  },
+  "logret_rank|F4_noylag_nodz|LGB": {
+    "num_leaves": 63,
+    "learning_rate": 0.05,
+    "n_estimators": 400
+  },
+  "logret_rank|F4_noylag_nodz|CatBoost": {
+    "depth": 8,
+    "learning_rate": 0.05,
+    "iterations": 400
+  }
+}
